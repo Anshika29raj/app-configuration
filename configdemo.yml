@@ -4,4 +4,4 @@ build:
   name: "Dev-GIT-Production-Build"
   type: " GIT Development Build"
 
-  //creating this configuration file for config demo and now we need to map it with config server
+  #creating this configuration file for config demo and now we need to map it with config server
