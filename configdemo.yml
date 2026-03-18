@@ -1,7 +1,7 @@
 build:
   id: 1010202
   version: 1.2.3
-  name: "Dev-GIT-Production-Build"
-  type: " GIT Development Build"
+  name: "Default-GIT-Production-Build"
+  type: " GIT Default Build"
 
   #creating this configuration file for config demo and now we need to map it with config server
